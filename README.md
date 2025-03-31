@@ -19,7 +19,7 @@ API Testing: Postman
 **Getting Started**
 **Cloning the Repository**
 Clone the project repository using the following command:
-git clone https://github.com/gauravlagad96/ProductCategoryCatlogApp  
+git clone https://github.com/Vaibhav440/ProductCategoryAPI
 
 **Setting Up the Development Environment**
 Install Java Development Kit (JDK) (version 17 or higher).
@@ -81,4 +81,4 @@ category_id (Foreign Key)
 
 
 **Author**
-Developed by Gaurav Lagad.
+Developed by Vaibhav Shete.
